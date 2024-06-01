@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SeaKids
+build_property.RootNamespace = SeaKids
+build_property.ProjectDir = C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Cadastros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Cadastros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Cadastros/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Cadastros/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Cadastros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Curiosidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VyaW9zaWRhZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Curiosidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VyaW9zaWRhZGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Curiosidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VyaW9zaWRhZGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Curiosidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VyaW9zaWRhZGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Curiosidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VyaW9zaWRhZGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Videos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Videos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Videos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Videos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Videos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hemil/OneDrive - Fiap-Faculdade de Informática e Administração Paulista/GLOBAL SOLUTION/.NET/SeaKids/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rbq3xkjh83

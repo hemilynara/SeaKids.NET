@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container1 mt-5">
+    <div class="text-center mb-4">
+        <h1>Bem-vindo ao SeaKids</h1>
+        <p class="lead">Aqui você encontra a gestão da nossa solução SeaKids, podemos gerir usuários e conteúdos cadastrados na plataforma.</p>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div class="btn-group-vertical">
+            <a href="@Url.Action("Index", "Cadastros")" class="btn btn-primary btn-lg mb-2"> Usuários Cadastrados </a>
+            <a href="@Url.Action("Index", "Curiosidades")" class="btn btn-info btn-lg mb-2"> Curiosidades Cadastradas </a>
+            <a href="@Url.Action("Index", "Videos")" class="btn btn-success btn-lg"> Vídeos Cadastrados </a>
+        </div>
+    </div>
+</div>
