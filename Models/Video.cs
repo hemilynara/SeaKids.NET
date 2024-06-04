@@ -17,5 +17,6 @@ namespace SeaKids.Models
         [Display(Name = "Título do Vídeo")]
         public string Titulo { get; set; }
 
+        public ICollection<Curiosidade>? Curiosidades { get; set; }
     }
 }

@@ -227,3 +227,4 @@ C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Pauli
 C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids\obj\Debug\net8.0\SeaKids.pdb
 C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids\obj\Debug\net8.0\SeaKids.genruntimeconfig.cache
 C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids\obj\Debug\net8.0\ref\SeaKids.dll
+C:\Users\hemil\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\GLOBAL SOLUTION\.NET\SeaKids\obj\Debug\net8.0\SeaKids.sourcelink.json

@@ -19,6 +19,9 @@ namespace SeaKids.Models
         [Required(ErrorMessage = "O campo Texto é obrigatório.")]
         [Display(Name = "Texto")]
         public string Texto { get; set; }
+
+        public ICollection<Video>? Videos { get; set; }
+
     }
 }
 
