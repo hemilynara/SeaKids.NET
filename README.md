@@ -1,6 +1,6 @@
 # SeaKids
 
-Desenvolveremos uma plataforma educacional focada em crianças, tornando os conceitos de conservação marinha, poluição e biodiversidade marinha acessíveis e divertidos. Nosso projeto gerenciará usuários e conteúdos, proporcionando uma experiência interativa completa. A plataforma será eficiente, oferecendo cadastro fácil, organização e apresentação de conteúdo variado. Neste projeto, evidenciamos a parte de gerenciamento de usuários e conteúdos da plataforma
+Desenvolveremos uma plataforma educacional focada em crianças, tornando os conceitos de conservação marinha, poluição e biodiversidade marinha acessíveis e divertidos. Nosso projeto gerenciará usuários e conteúdos, proporcionando uma experiência interativa completa. A plataforma será eficiente, oferecendo cadastro fácil, organização e apresentação de conteúdo variado.
 
 # Modelo Entidade Relacionamento (MER)
 <p align="center">
